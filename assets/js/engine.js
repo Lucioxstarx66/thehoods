@@ -1,9 +1,6 @@
 /*
-YaelChecker is a totally free Mass Credit Card Checker.
-RE-WRITED BY YAEL MASSIEU.
-Telegram: @sterytools
-Insta: @is.leay
-Portfolio: https://yael.pages.dev/
+The Hoods Team is a totally free Mass Credit Card Checker.
+RE-WRITED BY Lucio kmacho
 */
 
 //Ponemos la funcion que nos da la fecha en un DOMContentLoaded
